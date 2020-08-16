@@ -1,0 +1,11 @@
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\obj\Debug\netcoreapp3.1\Exception.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
